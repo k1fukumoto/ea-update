@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_grid_canvas_pane">
+    <sys_grid_canvas_pane action="DELETE">
+        <grid_canvas display_value="PA EA Update - New Tab">80782cea1b393110d27f5423164bcba5</grid_canvas>
+        <height>9</height>
+        <portal_widget display_value="Created 2023-10-12 22:28:12">ec88606a1b393110d27f5423164bcb51</portal_widget>
+        <posx>5</posx>
+        <posy>0</posy>
+        <sys_class_name>sys_grid_canvas_pane</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2023-10-13 05:28:13</sys_created_on>
+        <sys_id>3c88e02e1b393110d27f5423164bcbdb</sys_id>
+        <sys_mod_count>8</sys_mod_count>
+        <sys_name>80782cea1b393110d27f5423164bcba5</sys_name>
+        <sys_package display_value="EA update dashboard" source="x_snc_ea_update_0">fbc87c121b3d7110d27f5423164bcb4b</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="EA update dashboard">fbc87c121b3d7110d27f5423164bcb4b</sys_scope>
+        <sys_update_name>sys_grid_canvas_pane_3c88e02e1b393110d27f5423164bcbdb</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2023-10-13 05:30:17</sys_updated_on>
+        <width>5</width>
+    </sys_grid_canvas_pane>
+    <sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="EA update dashboard">fbc87c121b3d7110d27f5423164bcb4b</application>
+        <file_path/>
+        <instance_id>7edc6c4adbe1ac9c8aea21c4059619f0</instance_id>
+        <instance_name>kf10</instance_name>
+        <name>sys_grid_canvas_pane_3c88e02e1b393110d27f5423164bcbdb</name>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_grid_canvas_pane"><sys_grid_canvas_pane action="INSERT_OR_UPDATE"><grid_canvas display_value="PA EA Update - New Tab">80782cea1b393110d27f5423164bcba5</grid_canvas><height>9</height><portal_widget display_value="Created 2023-10-12 22:28:12">ec88606a1b393110d27f5423164bcb51</portal_widget><posx>5</posx><posy>0</posy><sys_class_name>sys_grid_canvas_pane</sys_class_name><sys_created_by>admin</sys_created_by><sys_created_on>2023-10-13 05:28:13</sys_created_on><sys_id>3c88e02e1b393110d27f5423164bcbdb</sys_id><sys_mod_count>8</sys_mod_count><sys_name>80782cea1b393110d27f5423164bcba5</sys_name><sys_package display_value="EA update dashboard" source="x_snc_ea_update_0">fbc87c121b3d7110d27f5423164bcb4b</sys_package><sys_policy/><sys_scope display_value="EA update dashboard">fbc87c121b3d7110d27f5423164bcb4b</sys_scope><sys_update_name>sys_grid_canvas_pane_3c88e02e1b393110d27f5423164bcbdb</sys_update_name><sys_updated_by>admin</sys_updated_by><sys_updated_on>2023-10-13 05:30:17</sys_updated_on><width>5</width></sys_grid_canvas_pane></record_update>]]></payload>
+        <payload_hash>1177245441</payload_hash>
+        <record_name>80782cea1b393110d27f5423164bcba5</record_name>
+        <reverted_from/>
+        <source>19ee735a1bb53110d27f5423164bcbad</source>
+        <source_table>sys_update_set</source_table>
+        <state>previous</state>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2023-10-13 05:30:17</sys_created_on>
+        <sys_id>9bf8e82e1b393110d27f5423164bcb40</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_recorded_at>18b278399eb0000001</sys_recorded_at>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2023-10-13 05:30:17</sys_updated_on>
+        <type>Grid Canvas Pane</type>
+        <update_guid>53f8e82e9c393110c5f511695c1a6840</update_guid>
+        <update_guid_history>53f8e82e9c393110c5f511695c1a6840:1177245441,71e8682e8f3931102f6c1aa82e45add5:1682091718,d4b8a02ef6393110143692d22d23bdfe:1177245441,63a8a42eb4393110a2d8f858d21820a1:1333246917,caa8a42e3e393110bab0a617391f040b:1014157163,7a98eceaf23931102d1c7cfb1dfbc3d9:47320508,8c98e02ea1393110d414141e153b07f6:1014157163,1a88e02ebb39311077f7a06b27274b87:47320508,bc88e02e6c3931105199b3ceadff1edd:1855500306</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete/>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2023-10-13 05:30:20</sys_created_on>
+        <sys_db_object display_value="" name="sys_grid_canvas_pane">sys_grid_canvas_pane</sys_db_object>
+        <sys_id>308dab622bfe490d843c24272cfaa4f9</sys_id>
+        <sys_metadata>3c88e02e1b393110d27f5423164bcbdb</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>80782cea1b393110d27f5423164bcba5</sys_name>
+        <sys_package display_value="EA update dashboard" source="x_snc_ea_update_0">fbc87c121b3d7110d27f5423164bcb4b</sys_package>
+        <sys_parent/>
+        <sys_policy/>
+        <sys_scope display_value="EA update dashboard">fbc87c121b3d7110d27f5423164bcb4b</sys_scope>
+        <sys_scope_delete display_value="">2ca2631024044f54917b4b85c2a03b49</sys_scope_delete>
+        <sys_update_name>sys_grid_canvas_pane_3c88e02e1b393110d27f5423164bcbdb</sys_update_name>
+        <sys_update_version display_value="sys_grid_canvas_pane_3c88e02e1b393110d27f5423164bcbdb">9bf8e82e1b393110d27f5423164bcb40</sys_update_version>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2023-10-13 05:30:20</sys_updated_on>
+    </sys_metadata_delete>
+</record_update>

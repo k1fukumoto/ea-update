@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_ux_registry_m2m_category">
+    <sys_ux_registry_m2m_category action="DELETE">
+        <experience_category display_value="Workspace">afb4e3e173322010f0ca1e666bf6a726</experience_category>
+        <page_registry display_value="">71634c6e34b531104e2f6e382816b7f3</page_registry>
+        <sys_class_name>sys_ux_registry_m2m_category</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2023-10-13 02:46:06</sys_created_on>
+        <sys_id>ed634c6eaeb53110a2652400641b81de</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name/>
+        <sys_package display_value="EA update dashboard" source="x_snc_ea_update_0">fbc87c121b3d7110d27f5423164bcb4b</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="EA update dashboard">fbc87c121b3d7110d27f5423164bcb4b</sys_scope>
+        <sys_update_name>sys_ux_registry_m2m_category_ed634c6eaeb53110a2652400641b81de</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2023-10-13 02:46:06</sys_updated_on>
+    </sys_ux_registry_m2m_category>
+    <sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="EA update dashboard">fbc87c121b3d7110d27f5423164bcb4b</application>
+        <file_path/>
+        <instance_id>7edc6c4adbe1ac9c8aea21c4059619f0</instance_id>
+        <instance_name>kf10</instance_name>
+        <name>sys_ux_registry_m2m_category_ed634c6eaeb53110a2652400641b81de</name>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_ux_registry_m2m_category"><sys_ux_registry_m2m_category action="INSERT_OR_UPDATE"><experience_category display_value="Workspace">afb4e3e173322010f0ca1e666bf6a726</experience_category><page_registry display_value="">71634c6e34b531104e2f6e382816b7f3</page_registry><sys_class_name>sys_ux_registry_m2m_category</sys_class_name><sys_created_by>admin</sys_created_by><sys_created_on>2023-10-13 02:46:06</sys_created_on><sys_id>ed634c6eaeb53110a2652400641b81de</sys_id><sys_mod_count>0</sys_mod_count><sys_name/><sys_package display_value="EA update dashboard" source="x_snc_ea_update_0">fbc87c121b3d7110d27f5423164bcb4b</sys_package><sys_policy/><sys_scope display_value="EA update dashboard">fbc87c121b3d7110d27f5423164bcb4b</sys_scope><sys_update_name>sys_ux_registry_m2m_category_ed634c6eaeb53110a2652400641b81de</sys_update_name><sys_updated_by>admin</sys_updated_by><sys_updated_on>2023-10-13 02:46:06</sys_updated_on></sys_ux_registry_m2m_category></record_update>]]></payload>
+        <payload_hash>1101144083</payload_hash>
+        <record_name/>
+        <reverted_from/>
+        <source>0c3f1a321b2131101dd565f1f54bcb84</source>
+        <source_table>sys_upgrade_history</source_table>
+        <state>previous</state>
+        <sys_created_by/>
+        <sys_created_on>2023-10-01 22:29:30</sys_created_on>
+        <sys_id>bde344ae1bb53110d27f5423164bcb3e</sys_id>
+        <sys_mod_count/>
+        <sys_recorded_at>18aed5c65100000000</sys_recorded_at>
+        <sys_updated_by/>
+        <sys_updated_on/>
+        <type>UX Application Category M2M</type>
+        <update_guid>7de344aeb6b5311088ac342994330b3e</update_guid>
+        <update_guid_history>7de344aeb6b5311088ac342994330b3e:1101144083</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete/>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2023-10-13 02:48:16</sys_created_on>
+        <sys_db_object display_value="" name="sys_ux_registry_m2m_category">sys_ux_registry_m2m_category</sys_db_object>
+        <sys_id>11f3429eec504b6882ebce71ec776e90</sys_id>
+        <sys_metadata>ed634c6eaeb53110a2652400641b81de</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name/>
+        <sys_package display_value="EA update dashboard" source="x_snc_ea_update_0">fbc87c121b3d7110d27f5423164bcb4b</sys_package>
+        <sys_parent/>
+        <sys_policy/>
+        <sys_scope display_value="EA update dashboard">fbc87c121b3d7110d27f5423164bcb4b</sys_scope>
+        <sys_scope_delete display_value="">2ca2631024044f54917b4b85c2a03b49</sys_scope_delete>
+        <sys_update_name>sys_ux_registry_m2m_category_ed634c6eaeb53110a2652400641b81de</sys_update_name>
+        <sys_update_version display_value="sys_ux_registry_m2m_category_ed634c6eaeb53110a2652400641b81de">bde344ae1bb53110d27f5423164bcb3e</sys_update_version>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2023-10-13 02:48:16</sys_updated_on>
+    </sys_metadata_delete>
+</record_update>

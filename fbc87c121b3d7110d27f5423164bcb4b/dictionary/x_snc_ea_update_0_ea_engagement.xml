@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?><database>
+    <element db_object_id="c11518ea1bf53110d27f5423164bcbad" label="EA Engagement" max_length="40" name="x_snc_ea_update_0_ea_engagement" type="collection">
+        <element label="Account" max_length="40" name="account" type="string"/>
+        <element label="Created On" max_length="255" name="created_on" type="glide_date_time"/>
+        <element label="Engagement Number" mandatory="true" max_length="40" name="engagement_number" type="string"/>
+        <element label="Engagement Type" max_length="40" name="engagement_type" type="string"/>
+        <element label="Industry Segment Category" max_length="40" name="industry_segment_category" type="string"/>
+        <element label="Marquee Account" max_length="40" name="marquee_account" type="string"/>
+        <element label="Modified On" max_length="255" name="modified_on" type="glide_date_time"/>
+        <element label="Name" max_length="40" name="name" type="string"/>
+        <index name="index">
+            <element name="engagement_number"/>
+        </index>
+    </element>
+</database>

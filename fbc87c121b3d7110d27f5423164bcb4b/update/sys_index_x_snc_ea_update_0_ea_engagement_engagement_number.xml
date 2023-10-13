@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_index">
+    <sys_index action="INSERT_OR_UPDATE">
+        <col_name_string>engagement_number</col_name_string>
+        <index_col_name element="engagement_number" name="x_snc_ea_update_0_ea_engagement">3635d8ea1bf53110d27f5423164bcbf6</index_col_name>
+        <logical_table_name>x_snc_ea_update_0_ea_engagement</logical_table_name>
+        <sys_class_name>sys_index</sys_class_name>
+        <sys_created_by>system</sys_created_by>
+        <sys_created_on>2023-10-13 04:31:49</sys_created_on>
+        <sys_id>e29b54621b393110d27f5423164bcbb8</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>x_snc_ea_update_0_ea_engagement</sys_name>
+        <sys_package display_value="EA update dashboard" source="x_snc_ea_update_0">fbc87c121b3d7110d27f5423164bcb4b</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="EA update dashboard">fbc87c121b3d7110d27f5423164bcb4b</sys_scope>
+        <sys_update_name>sys_index_x_snc_ea_update_0_ea_engagement_engagement_number</sys_update_name>
+        <sys_updated_by>system</sys_updated_by>
+        <sys_updated_on>2023-10-13 04:31:49</sys_updated_on>
+        <table display_value="EA Engagement" name="x_snc_ea_update_0_ea_engagement">c11518ea1bf53110d27f5423164bcbad</table>
+        <unique_index>false</unique_index>
+    </sys_index>
+</record_update>

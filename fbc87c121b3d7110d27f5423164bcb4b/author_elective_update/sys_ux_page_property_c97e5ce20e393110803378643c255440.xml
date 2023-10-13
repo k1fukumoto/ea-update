@@ -1,0 +1,272 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="sys_ux_page_property">
+    <sys_ux_page_property action="DELETE">
+        <choices/>
+        <description/>
+        <name>chrome_header</name>
+        <page display_value="EA update dashboard">cd7e5ce21b393110d27f5423164bcb1b</page>
+        <required_translations>[ {
+  "message" : "Configure",
+  "comment" : ""
+}, {
+  "message" : "Logout",
+  "comment" : ""
+}, {
+  "message" : "Settings",
+  "comment" : ""
+}, {
+  "message" : "UserMenu",
+  "comment" : ""
+} ]</required_translations>
+        <route/>
+        <suffix/>
+        <sys_class_name>sys_ux_page_property</sys_class_name>
+        <sys_created_by>system</sys_created_by>
+        <sys_created_on>2023-10-13 04:44:21</sys_created_on>
+        <sys_domain>global</sys_domain>
+        <sys_domain_path>/</sys_domain_path>
+        <sys_id>c97e5ce20e393110803378643c255440</sys_id>
+        <sys_mod_count>1</sys_mod_count>
+        <sys_name>chrome_header</sys_name>
+        <sys_package display_value="EA update dashboard" source="x_snc_ea_update_0">fbc87c121b3d7110d27f5423164bcb4b</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="EA update dashboard">fbc87c121b3d7110d27f5423164bcb4b</sys_scope>
+        <sys_update_name>sys_ux_page_property_c97e5ce20e393110803378643c255440</sys_update_name>
+        <sys_updated_by>system</sys_updated_by>
+        <sys_updated_on>2023-10-13 04:44:27</sys_updated_on>
+        <type>json</type>
+        <unique_name>x_snc_ea_update_0.cd7e5ce21b393110d27f5423164bcb1b.root.chrome_header</unique_name>
+        <value>{
+    "privatePage":{
+      "searchEnabled": true,
+       "userPrefsEnabled":true,
+       "currentScreenLinkConfiguration": {
+            "roles": ["admin"],
+            "position": 250
+        },
+       "globalTools":{
+          "collapsingMenuId":0,
+          "primaryItems":[
+             {
+                "label":"UserMenu",
+                "icon":"user",
+                "type":"menu",
+                "primaryDisplay":"icon",
+                "value":{
+                   "children":[
+                      {
+                         "label": {
+                          "translatable": true,
+                          "message":"Settings"
+                        },
+                         "position":100,
+                         "type":"navigation",
+                         "value":{
+                            "type":"route",
+                            "value":{
+                               "route":"settings",
+                               "fields":{
+                                  
+                               }
+                            }
+                         }
+                      },
+                      {                   
+                        "condition": {
+                          "roles": ["admin", "ui_builder_admin"]
+                        },
+                         "label":{
+                            "translatable": true,
+                            "message":"Configure"
+                          },
+                         "type":"navigation",
+                         "position":200,
+                         "primaryDisplay":"none",
+                         "value":{
+                            "type":"external",
+                            "opensWindow":"true",
+                            "value":{
+                               "href":"/nav_to.do?uri=/sys_ux_app_config.do?sys_id=c17e5ce21b393110d27f5423164bcb1c"
+                            }
+                         }
+                      },
+                      {
+                         "label": {
+                            "translatable": true,
+                            "message":"Logout"
+                          },
+                         "position":500,
+                         "type":"navigation",
+                                "value":{
+                                  "type": "AUTH_ROUTE_BINDING",
+                                        "binding": {
+                                            "address": ["logout"],
+                                            "params": {"reload": true},
+                                            "default": "/logout.do"
+                                }
+                        }
+                      }
+                   ]
+                }
+             }
+          ],
+          "secondaryItems":[]
+       }
+    },
+    "publicPage":{
+      "menuEnabled": true,
+      "logoRoute": {
+        "type": "route",
+        "value": {
+          "route": "landing",
+          "fields":{}
+        }
+      }
+    }
+ }</value>
+    </sys_ux_page_property>
+    <sys_translated_text action="DELETE" query="documentkey=c97e5ce20e393110803378643c255440"/>
+    <sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="EA update dashboard">fbc87c121b3d7110d27f5423164bcb4b</application>
+        <file_path/>
+        <instance_id>7edc6c4adbe1ac9c8aea21c4059619f0</instance_id>
+        <instance_name>kf10</instance_name>
+        <name>sys_ux_page_property_c97e5ce20e393110803378643c255440</name>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="sys_ux_page_property"><sys_ux_page_property action="INSERT_OR_UPDATE"><choices/><description/><name>chrome_header</name><page display_value="EA update dashboard">cd7e5ce21b393110d27f5423164bcb1b</page><required_translations>[ {
+  "message" : "Configure",
+  "comment" : ""
+}, {
+  "message" : "Logout",
+  "comment" : ""
+}, {
+  "message" : "Settings",
+  "comment" : ""
+}, {
+  "message" : "UserMenu",
+  "comment" : ""
+} ]</required_translations><route/><suffix/><sys_class_name>sys_ux_page_property</sys_class_name><sys_created_by>system</sys_created_by><sys_created_on>2023-10-13 04:44:21</sys_created_on><sys_domain>global</sys_domain><sys_domain_path>/</sys_domain_path><sys_id>c97e5ce20e393110803378643c255440</sys_id><sys_mod_count>1</sys_mod_count><sys_name>chrome_header</sys_name><sys_package display_value="EA update dashboard" source="x_snc_ea_update_0">fbc87c121b3d7110d27f5423164bcb4b</sys_package><sys_policy/><sys_scope display_value="EA update dashboard">fbc87c121b3d7110d27f5423164bcb4b</sys_scope><sys_update_name>sys_ux_page_property_c97e5ce20e393110803378643c255440</sys_update_name><sys_updated_by>system</sys_updated_by><sys_updated_on>2023-10-13 04:44:27</sys_updated_on><type>json</type><unique_name>x_snc_ea_update_0.cd7e5ce21b393110d27f5423164bcb1b.root.chrome_header</unique_name><value>{
+    "privatePage":{
+      "searchEnabled": true,
+       "userPrefsEnabled":true,
+       "currentScreenLinkConfiguration": {
+            "roles": ["admin"],
+            "position": 250
+        },
+       "globalTools":{
+          "collapsingMenuId":0,
+          "primaryItems":[
+             {
+                "label":"UserMenu",
+                "icon":"user",
+                "type":"menu",
+                "primaryDisplay":"icon",
+                "value":{
+                   "children":[
+                      {
+                         "label": {
+                          "translatable": true,
+                          "message":"Settings"
+                        },
+                         "position":100,
+                         "type":"navigation",
+                         "value":{
+                            "type":"route",
+                            "value":{
+                               "route":"settings",
+                               "fields":{
+                                  
+                               }
+                            }
+                         }
+                      },
+                      {                   
+                        "condition": {
+                          "roles": ["admin", "ui_builder_admin"]
+                        },
+                         "label":{
+                            "translatable": true,
+                            "message":"Configure"
+                          },
+                         "type":"navigation",
+                         "position":200,
+                         "primaryDisplay":"none",
+                         "value":{
+                            "type":"external",
+                            "opensWindow":"true",
+                            "value":{
+                               "href":"/nav_to.do?uri=/sys_ux_app_config.do?sys_id=c17e5ce21b393110d27f5423164bcb1c"
+                            }
+                         }
+                      },
+                      {
+                         "label": {
+                            "translatable": true,
+                            "message":"Logout"
+                          },
+                         "position":500,
+                         "type":"navigation",
+                                "value":{
+                                  "type": "AUTH_ROUTE_BINDING",
+                                        "binding": {
+                                            "address": ["logout"],
+                                            "params": {"reload": true},
+                                            "default": "/logout.do"
+                                }
+                        }
+                      }
+                   ]
+                }
+             }
+          ],
+          "secondaryItems":[]
+       }
+    },
+    "publicPage":{
+      "menuEnabled": true,
+      "logoRoute": {
+        "type": "route",
+        "value": {
+          "route": "landing",
+          "fields":{}
+        }
+      }
+    }
+ }</value></sys_ux_page_property><sys_translated_text action="delete_multiple" query="documentkey=c97e5ce20e393110803378643c255440"/></record_update>]]></payload>
+        <payload_hash>885174167</payload_hash>
+        <record_name>chrome_header</record_name>
+        <reverted_from/>
+        <source>19ee735a1bb53110d27f5423164bcbad</source>
+        <source_table>sys_update_set</source_table>
+        <state>previous</state>
+        <sys_created_by>system</sys_created_by>
+        <sys_created_on>2023-10-13 04:44:27</sys_created_on>
+        <sys_id>a37e10261b393110d27f5423164bcbcc</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_recorded_at>18b2759a17e0000001</sys_recorded_at>
+        <sys_updated_by>system</sys_updated_by>
+        <sys_updated_on>2023-10-13 04:44:27</sys_updated_on>
+        <type>UX Page Property</type>
+        <update_guid>6b7e1026533931105e6f48ce3c5b0ecb</update_guid>
+        <update_guid_history>6b7e1026533931105e6f48ce3c5b0ecb:885174167,e37e1026853931107a01495261f317ca:1945011370</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete/>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2023-10-13 06:57:44</sys_created_on>
+        <sys_db_object display_value="" name="sys_ux_page_property">sys_ux_page_property</sys_db_object>
+        <sys_id>64674f0f4643451aaedb80525c8a5d09</sys_id>
+        <sys_metadata>c97e5ce20e393110803378643c255440</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>chrome_header</sys_name>
+        <sys_package display_value="EA update dashboard" source="x_snc_ea_update_0">fbc87c121b3d7110d27f5423164bcb4b</sys_package>
+        <sys_parent/>
+        <sys_policy/>
+        <sys_scope display_value="EA update dashboard">fbc87c121b3d7110d27f5423164bcb4b</sys_scope>
+        <sys_scope_delete display_value="">2ca2631024044f54917b4b85c2a03b49</sys_scope_delete>
+        <sys_update_name>sys_ux_page_property_c97e5ce20e393110803378643c255440</sys_update_name>
+        <sys_update_version display_value="sys_ux_page_property_c97e5ce20e393110803378643c255440">a37e10261b393110d27f5423164bcbcc</sys_update_version>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2023-10-13 06:57:44</sys_updated_on>
+    </sys_metadata_delete>
+</record_update>

@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="sys_ux_page_property">
+    <sys_ux_page_property action="DELETE">
+        <choices/>
+        <description/>
+        <name>chrome_footer</name>
+        <page display_value="">71634c6e34b531104e2f6e382816b7f3</page>
+        <required_translations>[ ]</required_translations>
+        <route/>
+        <suffix/>
+        <sys_class_name>sys_ux_page_property</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2023-10-13 02:46:06</sys_created_on>
+        <sys_domain>global</sys_domain>
+        <sys_domain_path>global</sys_domain_path>
+        <sys_id>ad634c6ec6b53110ab9b5a1b9c2fd0e2</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>chrome_footer</sys_name>
+        <sys_package display_value="EA update dashboard" source="x_snc_ea_update_0">fbc87c121b3d7110d27f5423164bcb4b</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="EA update dashboard">fbc87c121b3d7110d27f5423164bcb4b</sys_scope>
+        <sys_update_name>sys_ux_page_property_ad634c6ec6b53110ab9b5a1b9c2fd0e2</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2023-10-13 02:46:06</sys_updated_on>
+        <type>json</type>
+        <unique_name>x_snc_ea_update_0.71634c6e34b531104e2f6e382816b7f3.root.chrome_footer</unique_name>
+        <value>{"public_page":{"enable_footer_topbar":false,"footer_topbar_options":{},"enable_footer_bar":false,"footer_bar_options":{}}}</value>
+    </sys_ux_page_property>
+    <sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="EA update dashboard">fbc87c121b3d7110d27f5423164bcb4b</application>
+        <file_path/>
+        <instance_id>7edc6c4adbe1ac9c8aea21c4059619f0</instance_id>
+        <instance_name>kf10</instance_name>
+        <name>sys_ux_page_property_ad634c6ec6b53110ab9b5a1b9c2fd0e2</name>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="sys_ux_page_property"><sys_ux_page_property action="INSERT_OR_UPDATE"><choices/><description/><name>chrome_footer</name><page display_value="">71634c6e34b531104e2f6e382816b7f3</page><required_translations>[ ]</required_translations><route/><suffix/><sys_class_name>sys_ux_page_property</sys_class_name><sys_created_by>admin</sys_created_by><sys_created_on>2023-10-13 02:46:06</sys_created_on><sys_domain>global</sys_domain><sys_domain_path>global</sys_domain_path><sys_id>ad634c6ec6b53110ab9b5a1b9c2fd0e2</sys_id><sys_mod_count>0</sys_mod_count><sys_name>chrome_footer</sys_name><sys_package display_value="EA update dashboard" source="x_snc_ea_update_0">fbc87c121b3d7110d27f5423164bcb4b</sys_package><sys_policy/><sys_scope display_value="EA update dashboard">fbc87c121b3d7110d27f5423164bcb4b</sys_scope><sys_update_name>sys_ux_page_property_ad634c6ec6b53110ab9b5a1b9c2fd0e2</sys_update_name><sys_updated_by>admin</sys_updated_by><sys_updated_on>2023-10-13 02:46:06</sys_updated_on><type>json</type><unique_name>x_snc_ea_update_0.71634c6e34b531104e2f6e382816b7f3.root.chrome_footer</unique_name><value>{"public_page":{"enable_footer_topbar":false,"footer_topbar_options":{},"enable_footer_bar":false,"footer_bar_options":{}}}</value></sys_ux_page_property></record_update>]]></payload>
+        <payload_hash>-2107216451</payload_hash>
+        <record_name>chrome_footer</record_name>
+        <reverted_from/>
+        <source>0c3f1a321b2131101dd565f1f54bcb84</source>
+        <source_table>sys_upgrade_history</source_table>
+        <state>previous</state>
+        <sys_created_by/>
+        <sys_created_on>2023-10-01 22:29:30</sys_created_on>
+        <sys_id>5ae3c4ae1bb53110d27f5423164bcba7</sys_id>
+        <sys_mod_count/>
+        <sys_recorded_at>18aed5c65100000000</sys_recorded_at>
+        <sys_updated_by/>
+        <sys_updated_on/>
+        <type>UX Page Property</type>
+        <update_guid>1ae3c4aee3b531106cbf4895869b86a7</update_guid>
+        <update_guid_history>1ae3c4aee3b531106cbf4895869b86a7:-2107216451</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete/>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2023-10-13 02:48:18</sys_created_on>
+        <sys_db_object display_value="" name="sys_ux_page_property">sys_ux_page_property</sys_db_object>
+        <sys_id>0315e90ca3184fcc810b66c04eee0d91</sys_id>
+        <sys_metadata>ad634c6ec6b53110ab9b5a1b9c2fd0e2</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>chrome_footer</sys_name>
+        <sys_package display_value="EA update dashboard" source="x_snc_ea_update_0">fbc87c121b3d7110d27f5423164bcb4b</sys_package>
+        <sys_parent/>
+        <sys_policy/>
+        <sys_scope display_value="EA update dashboard">fbc87c121b3d7110d27f5423164bcb4b</sys_scope>
+        <sys_scope_delete display_value="">2ca2631024044f54917b4b85c2a03b49</sys_scope_delete>
+        <sys_update_name>sys_ux_page_property_ad634c6ec6b53110ab9b5a1b9c2fd0e2</sys_update_name>
+        <sys_update_version display_value="sys_ux_page_property_ad634c6ec6b53110ab9b5a1b9c2fd0e2">5ae3c4ae1bb53110d27f5423164bcba7</sys_update_version>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2023-10-13 02:48:18</sys_updated_on>
+    </sys_metadata_delete>
+</record_update>

@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_rte_eb_entity_mapping">
+    <sys_rte_eb_entity_mapping action="INSERT_OR_UPDATE">
+        <condition_script><![CDATA[/* Example Script  (function() {          //step1: access the input variables         if (input && input.temp.u_type == 'Disk') {         //step2: return true/false             return true;         }         return false;  })(); */  (function(input) {     // Add your code here. })(input);]]></condition_script>
+        <encoded_query/>
+        <entity_mapping_group/>
+        <ignore>false</ignore>
+        <is_conditional>false</is_conditional>
+        <name>IHUB_TEMP_TARGET_MAPPING</name>
+        <order>100</order>
+        <source_sys_rte_eb_entity display_value="IHUB_TARGET_TEMP_x_snc_ea_update_0_ea_engagement">65f714ae1bf53110d27f5423164bcb58</source_sys_rte_eb_entity>
+        <sys_class_name>sys_rte_eb_entity_mapping</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2023-10-13 04:15:55</sys_created_on>
+        <sys_id>f1f714ae1bf53110d27f5423164bcbbb</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>IHUB_TEMP_TARGET_MAPPING</sys_name>
+        <sys_package display_value="EA update dashboard" source="x_snc_ea_update_0">fbc87c121b3d7110d27f5423164bcb4b</sys_package>
+        <sys_policy/>
+        <sys_rte_eb_definition display_value="Import EA engagements_etl_ihub">4b075c2e1bf53110d27f5423164bcbd9</sys_rte_eb_definition>
+        <sys_scope display_value="EA update dashboard">fbc87c121b3d7110d27f5423164bcb4b</sys_scope>
+        <sys_update_name>sys_rte_eb_entity_mapping_f1f714ae1bf53110d27f5423164bcbbb</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2023-10-13 04:15:55</sys_updated_on>
+        <target_sys_rte_eb_entity display_value="Target_x_snc_ea_update_0_ea_engagement">5707586e1bf53110d27f5423164bcb8a</target_sys_rte_eb_entity>
+    </sys_rte_eb_entity_mapping>
+</record_update>

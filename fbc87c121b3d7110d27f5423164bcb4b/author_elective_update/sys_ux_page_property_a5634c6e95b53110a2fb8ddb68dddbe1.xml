@@ -1,0 +1,111 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="sys_ux_page_property">
+    <sys_ux_page_property action="DELETE">
+        <choices/>
+        <description>User Preferences</description>
+        <name>chrome_preferences</name>
+        <page display_value="">71634c6e34b531104e2f6e382816b7f3</page>
+        <required_translations/>
+        <route/>
+        <suffix/>
+        <sys_class_name>sys_ux_page_property</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2023-10-13 02:46:06</sys_created_on>
+        <sys_domain>global</sys_domain>
+        <sys_domain_path>global</sys_domain_path>
+        <sys_id>a5634c6e95b53110a2fb8ddb68dddbe1</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>chrome_preferences</sys_name>
+        <sys_package display_value="EA update dashboard" source="x_snc_ea_update_0">fbc87c121b3d7110d27f5423164bcb4b</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="EA update dashboard">fbc87c121b3d7110d27f5423164bcb4b</sys_scope>
+        <sys_update_name>sys_ux_page_property_a5634c6e95b53110a2fb8ddb68dddbe1</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2023-10-13 02:46:06</sys_updated_on>
+        <type>json</type>
+        <unique_name>x_snc_ea_update_0.71634c6e34b531104e2f6e382816b7f3.root.chrome_preferences</unique_name>
+        <value>[&#13;
+  "workspace.notifications.inbox.desktop",&#13;
+  "workspace.notifications.inbox.audio",&#13;
+  "workspace.notifications.chat.desktop",&#13;
+  "workspace.notifications.chat.audio",&#13;
+  "workspace.showRibbon",&#13;
+  "workspace.showAgentAssist",&#13;
+  "workspace.wrapListText",&#13;
+  "workspace.notifications.showPopups",&#13;
+  "workspace.notifications.showBadgeCount",&#13;
+  "rowcount",&#13;
+  "ts.match",&#13;
+  "glide.ui.accessibility",&#13;
+  "glide.ui.report.accessibility.patterns",&#13;
+  "glide.ui.date_format",&#13;
+  "list_export.deliveryType",&#13;
+  "list_export.orientationType",&#13;
+  "list_export.fileType",&#13;
+  "list_export.email"&#13;
+]</value>
+    </sys_ux_page_property>
+    <sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="EA update dashboard">fbc87c121b3d7110d27f5423164bcb4b</application>
+        <file_path/>
+        <instance_id>7edc6c4adbe1ac9c8aea21c4059619f0</instance_id>
+        <instance_name>kf10</instance_name>
+        <name>sys_ux_page_property_a5634c6e95b53110a2fb8ddb68dddbe1</name>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="sys_ux_page_property"><sys_ux_page_property action="INSERT_OR_UPDATE"><choices/><description>User Preferences</description><name>chrome_preferences</name><page display_value="">71634c6e34b531104e2f6e382816b7f3</page><required_translations/><route/><suffix/><sys_class_name>sys_ux_page_property</sys_class_name><sys_created_by>admin</sys_created_by><sys_created_on>2023-10-13 02:46:06</sys_created_on><sys_domain>global</sys_domain><sys_domain_path>global</sys_domain_path><sys_id>a5634c6e95b53110a2fb8ddb68dddbe1</sys_id><sys_mod_count>0</sys_mod_count><sys_name>chrome_preferences</sys_name><sys_package display_value="EA update dashboard" source="x_snc_ea_update_0">fbc87c121b3d7110d27f5423164bcb4b</sys_package><sys_policy/><sys_scope display_value="EA update dashboard">fbc87c121b3d7110d27f5423164bcb4b</sys_scope><sys_update_name>sys_ux_page_property_a5634c6e95b53110a2fb8ddb68dddbe1</sys_update_name><sys_updated_by>admin</sys_updated_by><sys_updated_on>2023-10-13 02:46:06</sys_updated_on><type>json</type><unique_name>x_snc_ea_update_0.71634c6e34b531104e2f6e382816b7f3.root.chrome_preferences</unique_name><value>[&#13;
+  "workspace.notifications.inbox.desktop",&#13;
+  "workspace.notifications.inbox.audio",&#13;
+  "workspace.notifications.chat.desktop",&#13;
+  "workspace.notifications.chat.audio",&#13;
+  "workspace.showRibbon",&#13;
+  "workspace.showAgentAssist",&#13;
+  "workspace.wrapListText",&#13;
+  "workspace.notifications.showPopups",&#13;
+  "workspace.notifications.showBadgeCount",&#13;
+  "rowcount",&#13;
+  "ts.match",&#13;
+  "glide.ui.accessibility",&#13;
+  "glide.ui.report.accessibility.patterns",&#13;
+  "glide.ui.date_format",&#13;
+  "list_export.deliveryType",&#13;
+  "list_export.orientationType",&#13;
+  "list_export.fileType",&#13;
+  "list_export.email"&#13;
+]</value></sys_ux_page_property></record_update>]]></payload>
+        <payload_hash>773545880</payload_hash>
+        <record_name>chrome_preferences</record_name>
+        <reverted_from/>
+        <source>0c3f1a321b2131101dd565f1f54bcb84</source>
+        <source_table>sys_upgrade_history</source_table>
+        <state>previous</state>
+        <sys_created_by/>
+        <sys_created_on>2023-10-01 22:29:30</sys_created_on>
+        <sys_id>c6e3c4ae1bb53110d27f5423164bcb96</sys_id>
+        <sys_mod_count/>
+        <sys_recorded_at>18aed5c65100000000</sys_recorded_at>
+        <sys_updated_by/>
+        <sys_updated_on/>
+        <type>UX Page Property</type>
+        <update_guid>86e3c4ae86b5311068b86c10b9471f96</update_guid>
+        <update_guid_history>86e3c4ae86b5311068b86c10b9471f96:773545880</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete/>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2023-10-13 02:48:17</sys_created_on>
+        <sys_db_object display_value="" name="sys_ux_page_property">sys_ux_page_property</sys_db_object>
+        <sys_id>1a8ed78b552348e8ac9107a554b08040</sys_id>
+        <sys_metadata>a5634c6e95b53110a2fb8ddb68dddbe1</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>chrome_preferences</sys_name>
+        <sys_package display_value="EA update dashboard" source="x_snc_ea_update_0">fbc87c121b3d7110d27f5423164bcb4b</sys_package>
+        <sys_parent/>
+        <sys_policy/>
+        <sys_scope display_value="EA update dashboard">fbc87c121b3d7110d27f5423164bcb4b</sys_scope>
+        <sys_scope_delete display_value="">2ca2631024044f54917b4b85c2a03b49</sys_scope_delete>
+        <sys_update_name>sys_ux_page_property_a5634c6e95b53110a2fb8ddb68dddbe1</sys_update_name>
+        <sys_update_version display_value="sys_ux_page_property_a5634c6e95b53110a2fb8ddb68dddbe1">c6e3c4ae1bb53110d27f5423164bcb96</sys_update_version>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2023-10-13 02:48:17</sys_updated_on>
+    </sys_metadata_delete>
+</record_update>

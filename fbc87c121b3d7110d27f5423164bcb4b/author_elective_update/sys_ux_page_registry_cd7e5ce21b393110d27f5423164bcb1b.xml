@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_ux_page_registry">
+    <sys_ux_page_registry action="DELETE">
+        <active>true</active>
+        <admin_panel>c17e5ce21b393110d27f5423164bcb1c</admin_panel>
+        <admin_panel_table>sys_ux_app_config</admin_panel_table>
+        <auth_routes>{"login":"login","logout": "login"}</auth_routes>
+        <page/>
+        <parent_app/>
+        <path>ea-update-dashboard</path>
+        <root_macroponent display_value="Portal App Shell">b66bf1075b31101016fd7c1bf481c7a7</root_macroponent>
+        <sys_class_name>sys_ux_page_registry</sys_class_name>
+        <sys_created_by>system</sys_created_by>
+        <sys_created_on>2023-10-13 04:44:21</sys_created_on>
+        <sys_id>cd7e5ce21b393110d27f5423164bcb1b</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>EA update dashboard</sys_name>
+        <sys_package display_value="EA update dashboard" source="x_snc_ea_update_0">fbc87c121b3d7110d27f5423164bcb4b</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="EA update dashboard">fbc87c121b3d7110d27f5423164bcb4b</sys_scope>
+        <sys_update_name>sys_ux_page_registry_cd7e5ce21b393110d27f5423164bcb1b</sys_update_name>
+        <sys_updated_by>system</sys_updated_by>
+        <sys_updated_on>2023-10-13 04:44:21</sys_updated_on>
+        <title>EA update dashboard</title>
+    </sys_ux_page_registry>
+    <sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="EA update dashboard">fbc87c121b3d7110d27f5423164bcb4b</application>
+        <file_path/>
+        <instance_id>7edc6c4adbe1ac9c8aea21c4059619f0</instance_id>
+        <instance_name>kf10</instance_name>
+        <name>sys_ux_page_registry_cd7e5ce21b393110d27f5423164bcb1b</name>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_ux_page_registry"><sys_ux_page_registry action="INSERT_OR_UPDATE"><active>true</active><admin_panel>c17e5ce21b393110d27f5423164bcb1c</admin_panel><admin_panel_table>sys_ux_app_config</admin_panel_table><auth_routes>{"login":"login","logout": "login"}</auth_routes><page/><parent_app/><path>ea-update-dashboard</path><root_macroponent display_value="Portal App Shell">b66bf1075b31101016fd7c1bf481c7a7</root_macroponent><sys_class_name>sys_ux_page_registry</sys_class_name><sys_created_by>system</sys_created_by><sys_created_on>2023-10-13 04:44:21</sys_created_on><sys_id>cd7e5ce21b393110d27f5423164bcb1b</sys_id><sys_mod_count>0</sys_mod_count><sys_name>EA update dashboard</sys_name><sys_package display_value="EA update dashboard" source="x_snc_ea_update_0">fbc87c121b3d7110d27f5423164bcb4b</sys_package><sys_policy/><sys_scope display_value="EA update dashboard">fbc87c121b3d7110d27f5423164bcb4b</sys_scope><sys_update_name>sys_ux_page_registry_cd7e5ce21b393110d27f5423164bcb1b</sys_update_name><sys_updated_by>system</sys_updated_by><sys_updated_on>2023-10-13 04:44:21</sys_updated_on><title>EA update dashboard</title></sys_ux_page_registry></record_update>]]></payload>
+        <payload_hash>-810569480</payload_hash>
+        <record_name>EA update dashboard</record_name>
+        <reverted_from/>
+        <source>0c3f1a321b2131101dd565f1f54bcb84</source>
+        <source_table>sys_upgrade_history</source_table>
+        <state>previous</state>
+        <sys_created_by/>
+        <sys_created_on>2023-10-01 22:29:30</sys_created_on>
+        <sys_id>affcf8ea1b793110d27f5423164bcb66</sys_id>
+        <sys_mod_count/>
+        <sys_recorded_at>18aed5c65100000000</sys_recorded_at>
+        <sys_updated_by/>
+        <sys_updated_on/>
+        <type>UX Application</type>
+        <update_guid>6ffcf8ea07793110b916e9331b08ea66</update_guid>
+        <update_guid_history>6ffcf8ea07793110b916e9331b08ea66:-810569480</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete/>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2023-10-13 06:57:44</sys_created_on>
+        <sys_db_object display_value="" name="sys_ux_page_registry">sys_ux_page_registry</sys_db_object>
+        <sys_id>7af54ebd304446559dd8b811a3278039</sys_id>
+        <sys_metadata>cd7e5ce21b393110d27f5423164bcb1b</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>EA update dashboard</sys_name>
+        <sys_package display_value="EA update dashboard" source="x_snc_ea_update_0">fbc87c121b3d7110d27f5423164bcb4b</sys_package>
+        <sys_parent/>
+        <sys_policy/>
+        <sys_scope display_value="EA update dashboard">fbc87c121b3d7110d27f5423164bcb4b</sys_scope>
+        <sys_scope_delete display_value="">2ca2631024044f54917b4b85c2a03b49</sys_scope_delete>
+        <sys_update_name>sys_ux_page_registry_cd7e5ce21b393110d27f5423164bcb1b</sys_update_name>
+        <sys_update_version display_value="sys_ux_page_registry_cd7e5ce21b393110d27f5423164bcb1b">affcf8ea1b793110d27f5423164bcb66</sys_update_version>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2023-10-13 06:57:44</sys_updated_on>
+    </sys_metadata_delete>
+</record_update>

@@ -1,0 +1,80 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="sys_ux_page_property">
+    <sys_ux_page_property action="DELETE">
+        <choices/>
+        <description>Tabs Configuration</description>
+        <name>chrome_tab</name>
+        <page display_value="EA update dashboard">71634c6e34b531104e2f6e382816b7f3</page>
+        <required_translations>[ {
+  "message" : "New Task",
+  "comment" : ""
+} ]</required_translations>
+        <route/>
+        <suffix/>
+        <sys_class_name>sys_ux_page_property</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2023-10-13 02:46:06</sys_created_on>
+        <sys_domain>global</sys_domain>
+        <sys_domain_path>global</sys_domain_path>
+        <sys_id>e9634c6ef3b53110dd75c503de11b8e2</sys_id>
+        <sys_mod_count>1</sys_mod_count>
+        <sys_name>chrome_tab</sys_name>
+        <sys_package display_value="EA update dashboard" source="x_snc_ea_update_0">fbc87c121b3d7110d27f5423164bcb4b</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="EA update dashboard">fbc87c121b3d7110d27f5423164bcb4b</sys_scope>
+        <sys_update_name>sys_ux_page_property_e9634c6ef3b53110dd75c503de11b8e2</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2023-10-13 02:46:10</sys_updated_on>
+        <type>json</type>
+        <unique_name>x_snc_ea_update_0.71634c6e34b531104e2f6e382816b7f3.root.chrome_tab</unique_name>
+        <value>{"contextual":["record"],"newTabMenu":[{"label":{"translatable":true,"message":"New Task"},"routeInfo":{"route":"record","fields":{"table":"task","sysId":"-1"},"multiInstField":"sysId"},"condition":{"tableDescription":{"table":"task","canCreate":true}}}],"maxMainTabLimit":10,"maxTotalSubTabLimit":30}</value>
+    </sys_ux_page_property>
+    <sys_translated_text action="DELETE" query="documentkey=e9634c6ef3b53110dd75c503de11b8e2"/>
+    <sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="EA update dashboard">fbc87c121b3d7110d27f5423164bcb4b</application>
+        <file_path/>
+        <instance_id>7edc6c4adbe1ac9c8aea21c4059619f0</instance_id>
+        <instance_name>kf10</instance_name>
+        <name>sys_ux_page_property_e9634c6ef3b53110dd75c503de11b8e2</name>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="sys_ux_page_property"><sys_ux_page_property action="INSERT_OR_UPDATE"><choices/><description>Tabs Configuration</description><name>chrome_tab</name><page display_value="EA update dashboard">71634c6e34b531104e2f6e382816b7f3</page><required_translations>[ {
+  "message" : "New Task",
+  "comment" : ""
+} ]</required_translations><route/><suffix/><sys_class_name>sys_ux_page_property</sys_class_name><sys_created_by>admin</sys_created_by><sys_created_on>2023-10-13 02:46:06</sys_created_on><sys_domain>global</sys_domain><sys_domain_path>global</sys_domain_path><sys_id>e9634c6ef3b53110dd75c503de11b8e2</sys_id><sys_mod_count>1</sys_mod_count><sys_name>chrome_tab</sys_name><sys_package display_value="EA update dashboard" source="x_snc_ea_update_0">fbc87c121b3d7110d27f5423164bcb4b</sys_package><sys_policy/><sys_scope display_value="EA update dashboard">fbc87c121b3d7110d27f5423164bcb4b</sys_scope><sys_update_name>sys_ux_page_property_e9634c6ef3b53110dd75c503de11b8e2</sys_update_name><sys_updated_by>admin</sys_updated_by><sys_updated_on>2023-10-13 02:46:10</sys_updated_on><type>json</type><unique_name>x_snc_ea_update_0.71634c6e34b531104e2f6e382816b7f3.root.chrome_tab</unique_name><value>{"contextual":["record"],"newTabMenu":[{"label":{"translatable":true,"message":"New Task"},"routeInfo":{"route":"record","fields":{"table":"task","sysId":"-1"},"multiInstField":"sysId"},"condition":{"tableDescription":{"table":"task","canCreate":true}}}],"maxMainTabLimit":10,"maxTotalSubTabLimit":30}</value></sys_ux_page_property><sys_translated_text action="delete_multiple" query="documentkey=e9634c6ef3b53110dd75c503de11b8e2"/></record_update>]]></payload>
+        <payload_hash>97737006</payload_hash>
+        <record_name>chrome_tab</record_name>
+        <reverted_from/>
+        <source>19ee735a1bb53110d27f5423164bcbad</source>
+        <source_table>sys_update_set</source_table>
+        <state>previous</state>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2023-10-13 02:46:10</sys_created_on>
+        <sys_id>4763cc6e1bb53110d27f5423164bcb5c</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_recorded_at>18b26ed56850000001</sys_recorded_at>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2023-10-13 02:46:10</sys_updated_on>
+        <type>UX Page Property</type>
+        <update_guid>4f63cc6eafb5311021c788cf1427b65b</update_guid>
+        <update_guid_history>4f63cc6eafb5311021c788cf1427b65b:97737006,4b63cc6e97b53110f330a34e6f26085a:-637605370</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete/>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2023-10-13 02:48:18</sys_created_on>
+        <sys_db_object display_value="" name="sys_ux_page_property">sys_ux_page_property</sys_db_object>
+        <sys_id>2981db261ac14970a494205695eeb240</sys_id>
+        <sys_metadata>e9634c6ef3b53110dd75c503de11b8e2</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>chrome_tab</sys_name>
+        <sys_package display_value="EA update dashboard" source="x_snc_ea_update_0">fbc87c121b3d7110d27f5423164bcb4b</sys_package>
+        <sys_parent/>
+        <sys_policy/>
+        <sys_scope display_value="EA update dashboard">fbc87c121b3d7110d27f5423164bcb4b</sys_scope>
+        <sys_scope_delete display_value="">2ca2631024044f54917b4b85c2a03b49</sys_scope_delete>
+        <sys_update_name>sys_ux_page_property_e9634c6ef3b53110dd75c503de11b8e2</sys_update_name>
+        <sys_update_version display_value="sys_ux_page_property_e9634c6ef3b53110dd75c503de11b8e2">4763cc6e1bb53110d27f5423164bcb5c</sys_update_version>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2023-10-13 02:48:18</sys_updated_on>
+    </sys_metadata_delete>
+</record_update>

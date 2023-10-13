@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="sys_complex_object">
+    <sys_complex_object action="INSERT_OR_UPDATE">
+        <label/>
+        <name>ih_import_FD79e6d46e62f53110345ab998056aca98</name>
+        <namespace>FlowDesigner</namespace>
+        <scope_name>fbc87c121b3d7110d27f5423164bcb4b</scope_name>
+        <serialized_content>{"FlowDesigner:ih_import_FD79e6d46e62f53110345ab998056aca98":{"u_name":"String","u_name.$field_facets":{"SimpleMapFacet":"{\"uiTypeLabel\":\"string\",\"read_only\":\"false\",\"hint\":null,\"uiType\":\"string\",\"default_value\":\"\",\"label\":\"Name\",\"mandatory\":\"false\",\"order\":\"0\",\"max_length\":\"0\"}"},"u_engagement_type":"String","u_engagement_type.$field_facets":{"SimpleMapFacet":"{\"uiTypeLabel\":\"string\",\"read_only\":\"false\",\"hint\":null,\"uiType\":\"string\",\"default_value\":\"\",\"label\":\"Engagement Type\",\"mandatory\":\"false\",\"order\":\"0\",\"max_length\":\"0\"}"},"u_industry_seg_unt___account_":"String","u_industry_seg_unt___account_.$field_facets":{"SimpleMapFacet":"{\"uiTypeLabel\":\"string\",\"read_only\":\"false\",\"hint\":null,\"uiType\":\"string\",\"default_value\":\"\",\"label\":\"Industry Segment Category (Account) (Account)\",\"mandatory\":\"false\",\"order\":\"0\",\"max_length\":\"0\"}"},"u_created_on":"Date","u_created_on.$field_facets":{"SimpleMapFacet":"{\"uiTypeLabel\":\"glide_date_time\",\"read_only\":\"false\",\"hint\":null,\"uiType\":\"glide_date_time\",\"default_value\":\"\",\"label\":\"Created On\",\"mandatory\":\"false\",\"order\":\"0\",\"max_length\":\"0\"}"},"u_modified_on":"Date","u_modified_on.$field_facets":{"SimpleMapFacet":"{\"uiTypeLabel\":\"glide_date_time\",\"read_only\":\"false\",\"hint\":null,\"uiType\":\"glide_date_time\",\"default_value\":\"\",\"label\":\"Modified On\",\"mandatory\":\"false\",\"order\":\"0\",\"max_length\":\"0\"}"},"u__do_not_modify__row_checksum":"String","u__do_not_modify__row_checksum.$field_facets":{"SimpleMapFacet":"{\"uiTypeLabel\":\"string\",\"read_only\":\"false\",\"hint\":null,\"uiType\":\"string\",\"default_value\":\"\",\"label\":\"(Do Not Modify) Row Checksum\",\"mandatory\":\"false\",\"order\":\"0\",\"max_length\":\"0\"}"},"u_account":"String","u_account.$field_facets":{"SimpleMapFacet":"{\"uiTypeLabel\":\"string\",\"read_only\":\"false\",\"hint\":null,\"uiType\":\"string\",\"default_value\":\"\",\"label\":\"Account\",\"mandatory\":\"false\",\"order\":\"0\",\"max_length\":\"0\"}"},"u_engagement_number":"String","u_engagement_number.$field_facets":{"SimpleMapFacet":"{\"uiTypeLabel\":\"string\",\"read_only\":\"false\",\"hint\":null,\"uiType\":\"string\",\"default_value\":\"\",\"label\":\"Engagement Number\",\"mandatory\":\"false\",\"order\":\"0\",\"max_length\":\"0\"}"},"u_marquee_acco_unt___account_":"String","u_marquee_acco_unt___account_.$field_facets":{"SimpleMapFacet":"{\"uiTypeLabel\":\"string\",\"read_only\":\"false\",\"hint\":null,\"uiType\":\"string\",\"default_value\":\"\",\"label\":\"Marquee Account (Account) (Account)\",\"mandatory\":\"false\",\"order\":\"0\",\"max_length\":\"0\"}"},"u__do_not_modify__engagement":"String","u__do_not_modify__engagement.$field_facets":{"SimpleMapFacet":"{\"uiTypeLabel\":\"string\",\"read_only\":\"false\",\"hint\":null,\"uiType\":\"string\",\"default_value\":\"\",\"label\":\"(Do Not Modify) Engagement\",\"mandatory\":\"false\",\"order\":\"0\",\"max_length\":\"0\"}"},"u__do_not_modify__modified_on":"Date","u__do_not_modify__modified_on.$field_facets":{"SimpleMapFacet":"{\"uiTypeLabel\":\"glide_date_time\",\"read_only\":\"false\",\"hint\":null,\"uiType\":\"glide_date_time\",\"default_value\":\"\",\"label\":\"(Do Not Modify) Modified On\",\"mandatory\":\"false\",\"order\":\"0\",\"max_length\":\"0\"}"}},"FlowDesigner:ih_import_FD79e6d46e62f53110345ab998056aca98.$type_facets":{"SimpleMapFacet":"{\"uiTypeLabel\":\"object\",\"co_type_name\":\"ih_import_FD79e6d46e62f53110345ab998056aca98\",\"read_only\":\"false\",\"hint\":null,\"uiType\":\"object\",\"default_value\":\"\",\"label\":\"Excel Header\",\"mandatory\":\"false\",\"order\":\"0\",\"max_length\":\"0\"}"}}</serialized_content>
+        <sys_class_name>sys_complex_object</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2023-10-13 04:11:17</sys_created_on>
+        <sys_domain>global</sys_domain>
+        <sys_domain_path>/</sys_domain_path>
+        <sys_id>3de6d46e1bf53110d27f5423164bcb98</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>ih_import_FD79e6d46e62f53110345ab998056aca98</sys_name>
+        <sys_overrides/>
+        <sys_package display_value="EA update dashboard" source="x_snc_ea_update_0">fbc87c121b3d7110d27f5423164bcb4b</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="EA update dashboard">fbc87c121b3d7110d27f5423164bcb4b</sys_scope>
+        <sys_update_name>sys_complex_object_3de6d46e1bf53110d27f5423164bcb98</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2023-10-13 04:11:17</sys_updated_on>
+        <type>complex_object_schema</type>
+    </sys_complex_object>
+</record_update>

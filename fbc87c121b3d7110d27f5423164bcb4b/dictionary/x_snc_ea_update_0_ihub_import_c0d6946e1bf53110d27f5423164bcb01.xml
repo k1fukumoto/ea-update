@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?><database>
+    <element db_object_id="320894ae1bf53110d27f5423164bcb60" extends="sys_import_set_row" label="Import EA engagements" max_length="40" name="x_snc_ea_update_0_ihub_import_c0d6946e1bf53110d27f5423164bcb01" type="collection">
+        <element attributes="edge_encryption_enabled=true,import_attribute_name=Account" label="Account" max_length="44" name="u_account" type="string"/>
+        <element attributes="edge_encryption_enabled=true,import_attribute_name=Created On" label="Created On" max_length="40" name="u_created_on" type="glide_date_time"/>
+        <element attributes="edge_encryption_enabled=true,import_attribute_name=Engagement Number" label="Engagement Number" max_length="40" name="u_engagement_number" type="string"/>
+        <element attributes="edge_encryption_enabled=true,import_attribute_name=Engagement Type" label="Engagement Type" max_length="40" name="u_engagement_type" type="string"/>
+        <element attributes="edge_encryption_enabled=true,import_attribute_name=Industry Segment Category (Account) (Account)" label="Industry Segment Category (Account) (Account)" max_length="40" name="u_industry_seg_unt___account_" type="string"/>
+        <element attributes="edge_encryption_enabled=true,import_attribute_name=Marquee Account (Account) (Account)" label="Marquee Account (Account) (Account)" max_length="40" name="u_marquee_acco_unt___account_" type="string"/>
+        <element attributes="edge_encryption_enabled=true,import_attribute_name=Modified On" label="Modified On" max_length="40" name="u_modified_on" type="glide_date_time"/>
+        <element attributes="edge_encryption_enabled=true,import_attribute_name=Name" label="Name" max_length="40" name="u_name" type="string"/>
+        <element attributes="edge_encryption_enabled=true,import_attribute_name=(Do Not Modify) Engagement" label="(Do Not Modify) Engagement" max_length="40" name="u__do_not_modify__engagement" type="string"/>
+        <element attributes="edge_encryption_enabled=true,import_attribute_name=(Do Not Modify) Modified On" label="(Do Not Modify) Modified On" max_length="40" name="u__do_not_modify__modified_on" type="glide_date_time"/>
+        <element attributes="edge_encryption_enabled=true,import_attribute_name=(Do Not Modify) Row Checksum" label="(Do Not Modify) Row Checksum" max_length="88" name="u__do_not_modify__row_checksum" type="string"/>
+    </element>
+</database>

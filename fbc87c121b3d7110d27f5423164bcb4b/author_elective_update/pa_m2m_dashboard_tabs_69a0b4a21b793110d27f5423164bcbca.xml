@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="pa_m2m_dashboard_tabs">
+    <pa_m2m_dashboard_tabs action="DELETE">
+        <dashboard display_value="EA Update">6968602e1b393110d27f5423164bcbd7</dashboard>
+        <home>false</home>
+        <homepage/>
+        <order>2</order>
+        <sys_class_name>pa_m2m_dashboard_tabs</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2023-10-13 06:03:46</sys_created_on>
+        <sys_domain>global</sys_domain>
+        <sys_domain_path>/</sys_domain_path>
+        <sys_id>69a0b4a21b793110d27f5423164bcbca</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>6968602e1b393110d27f5423164bcbd7</sys_name>
+        <sys_overrides/>
+        <sys_package display_value="EA update dashboard" source="x_snc_ea_update_0">fbc87c121b3d7110d27f5423164bcb4b</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="EA update dashboard">fbc87c121b3d7110d27f5423164bcb4b</sys_scope>
+        <sys_update_name>pa_m2m_dashboard_tabs_69a0b4a21b793110d27f5423164bcbca</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2023-10-13 06:03:46</sys_updated_on>
+        <tab display_value="EA Update - New Tab 2">25a0b4a21b793110d27f5423164bcbc8</tab>
+    </pa_m2m_dashboard_tabs>
+    <sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="EA update dashboard">fbc87c121b3d7110d27f5423164bcb4b</application>
+        <file_path/>
+        <instance_id>7edc6c4adbe1ac9c8aea21c4059619f0</instance_id>
+        <instance_name>kf10</instance_name>
+        <name>pa_m2m_dashboard_tabs_69a0b4a21b793110d27f5423164bcbca</name>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="pa_m2m_dashboard_tabs"><pa_m2m_dashboard_tabs action="INSERT_OR_UPDATE"><dashboard display_value="EA Update">6968602e1b393110d27f5423164bcbd7</dashboard><home>false</home><homepage/><order>2</order><sys_class_name>pa_m2m_dashboard_tabs</sys_class_name><sys_created_by>admin</sys_created_by><sys_created_on>2023-10-13 06:03:46</sys_created_on><sys_domain>global</sys_domain><sys_domain_path>/</sys_domain_path><sys_id>69a0b4a21b793110d27f5423164bcbca</sys_id><sys_mod_count>0</sys_mod_count><sys_name>6968602e1b393110d27f5423164bcbd7</sys_name><sys_overrides/><sys_package display_value="EA update dashboard" source="x_snc_ea_update_0">fbc87c121b3d7110d27f5423164bcb4b</sys_package><sys_policy/><sys_scope display_value="EA update dashboard">fbc87c121b3d7110d27f5423164bcb4b</sys_scope><sys_update_name>pa_m2m_dashboard_tabs_69a0b4a21b793110d27f5423164bcbca</sys_update_name><sys_updated_by>admin</sys_updated_by><sys_updated_on>2023-10-13 06:03:46</sys_updated_on><tab display_value="EA Update - New Tab 2">25a0b4a21b793110d27f5423164bcbc8</tab></pa_m2m_dashboard_tabs></record_update>]]></payload>
+        <payload_hash>107800185</payload_hash>
+        <record_name>6968602e1b393110d27f5423164bcbd7</record_name>
+        <reverted_from/>
+        <source>19ee735a1bb53110d27f5423164bcbad</source>
+        <source_table>sys_update_set</source_table>
+        <state>previous</state>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2023-10-13 06:03:46</sys_created_on>
+        <sys_id>65a0b4a21b793110d27f5423164bcbcc</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_recorded_at>18b27a240740000001</sys_recorded_at>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2023-10-13 06:03:46</sys_updated_on>
+        <type>Dashboard Tab</type>
+        <update_guid>a9a0b4a23e793110c986a82eedbf7dcb</update_guid>
+        <update_guid_history>a9a0b4a23e793110c986a82eedbf7dcb:107800185</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete display_value="EA Update">17a030621b793110d27f5423164bcbf2</sys_audit_delete>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2023-10-13 06:03:53</sys_created_on>
+        <sys_db_object display_value="" name="pa_m2m_dashboard_tabs">pa_m2m_dashboard_tabs</sys_db_object>
+        <sys_id>9159d37e7eb54b50858c1e125274f6c4</sys_id>
+        <sys_metadata>69a0b4a21b793110d27f5423164bcbca</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>6968602e1b393110d27f5423164bcbd7</sys_name>
+        <sys_package display_value="EA update dashboard" source="x_snc_ea_update_0">fbc87c121b3d7110d27f5423164bcb4b</sys_package>
+        <sys_parent display_value="EA Update">6968602e1b393110d27f5423164bcbd7</sys_parent>
+        <sys_policy/>
+        <sys_scope display_value="EA update dashboard">fbc87c121b3d7110d27f5423164bcb4b</sys_scope>
+        <sys_scope_delete display_value="">2ca2631024044f54917b4b85c2a03b49</sys_scope_delete>
+        <sys_update_name>pa_m2m_dashboard_tabs_69a0b4a21b793110d27f5423164bcbca</sys_update_name>
+        <sys_update_version display_value="pa_m2m_dashboard_tabs_69a0b4a21b793110d27f5423164bcbca">65a0b4a21b793110d27f5423164bcbcc</sys_update_version>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2023-10-13 06:03:53</sys_updated_on>
+    </sys_metadata_delete>
+</record_update>
