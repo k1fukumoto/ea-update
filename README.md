@@ -1,2 +1,2 @@
 # ea-update
-Going through hello world tutorial
+ServiceNow App to share EA activities with stakeholders.
